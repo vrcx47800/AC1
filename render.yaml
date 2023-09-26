@@ -1,5 +1,5 @@
   services:
   - type: web
-    name: artclass
+    name: future
     env: docker
     plan: free
