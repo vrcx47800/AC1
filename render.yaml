@@ -1,5 +1,5 @@
   services:
   - type: web
-    name: future
+    name: bass
     env: docker
     plan: free
